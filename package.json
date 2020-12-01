@@ -10,6 +10,7 @@
     "react-scripts": "^4.0.0"
   },
   "devDependencies": {
+    "html-webpack-plugin": "^5.0.0-alpha.14",
     "typescript": "3.3.3"
   },
   "scripts": {
